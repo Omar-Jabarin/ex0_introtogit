@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Kusa and Dawali
+Favorite musician/band: Jimi Hendrix
+Favorite movie: LoTR
+Requested grade in the course: 100
